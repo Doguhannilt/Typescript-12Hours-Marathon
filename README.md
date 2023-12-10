@@ -1,7 +1,8 @@
+<pre>
 <h1>Typescript</h1>
 <lu>
-<li>Typescript is a tool based on Javascript</li>
-<li>Typescript gives you much more space and more security</li>
+    <li>Typescript is a tool based on Javascript</li>
+    <li>Typescript gives you much more space and more security</li>
 </lu>
 
 <h3>Typescript to Javascript</h3>
@@ -12,14 +13,14 @@
 
 <h3>Types</h3>
 <lu>
-<li>You can use any types in Typescript, it's so similar to C# and Java.</li>
+    <li>You can use any types in Typescript, it's so similar to C# and Java.</li>
 </lu>
 <h3>Syntax of Types</h3>
 <code>let variable: string = "value";</code>
 
 <h3>Functions</h3>
 <lu>
-<li>You should assign the type of value and outcome</li>
+    <li>You should assign the type of value and outcome</li>
 </lu>
 <h3>Syntax of Functions</h3>
 <code>function variableName(value: valueType): outcome Type {}</code>
@@ -31,8 +32,8 @@
 
 <h3>Readonly and Optional</h3>
 <lu>
-<li>Readonly: Readonly is used if there is a key that we do not want to be changed.</li>
-<li>Question Mark: Use question mark if key is optional</li>
+    <li>Readonly: Readonly is used if there is a key that we do not want to be changed.</li>
+    <li>Question Mark: Use question mark if key is optional</li>
 </lu>
 
 <h3>Array Syntax</h3>
@@ -54,7 +55,7 @@ then you can't use that method in function* </p>
 
 <h3>Tuples</h3>
 <lu>
-<li>A tuple type is another sort of Array type that knows exactly how many elements it contains, and exactly which types it contains at specific positions.</li>
+    <li>A tuple type is another sort of Array type that knows exactly how many elements it contains, and exactly which types it contains at specific positions.</li>
 </lu>
 
 <h3>Tuple Syntax</h3>
@@ -342,3 +343,4 @@ function isAdminAccount(account:user | admin)
        }
 }
 </code>
+</pre>
